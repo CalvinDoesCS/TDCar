@@ -42,4 +42,11 @@ Unlike most PiCar-X tutorials that rely on Python, this project uses **pure C++*
 
 ---
 
+## PIcar-x Wiring Specifications 
+More information: https://docs.sunfounder.com/projects/robot-hat-v4/en/latest/robot_hat_v4/hardware_introduction.html#motor-port
+
+<img width="600" height="600" alt="Physical Wiring" src="https://github.com/user-attachments/assets/39ec5976-6423-4c1b-9e65-162b9b8f56f2" />
+<img width="600" height="600" alt="Mapping of the Pi-hat to Raspberrypi" src="https://github.com/user-attachments/assets/2447e908-c1b3-476d-a435-49827b30c784" />
+
+
 ## Project Structure
