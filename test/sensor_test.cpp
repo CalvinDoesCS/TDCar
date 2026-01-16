@@ -12,7 +12,7 @@ int main() {
     pinMode(echoPin, INPUT);
 
     digitalWrite(trigPin, LOW); // Make sure trigger is low
-    delay(500);                 // Stabilize sensor
+    delay(500);                 
 
     std::cout << "Starting ultrasonic sensor reading..." << std::endl;
 
